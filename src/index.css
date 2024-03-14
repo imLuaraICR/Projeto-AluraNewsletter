@@ -17,7 +17,7 @@
   }
 
   .alura-card {
-    @apply flex-col gap-2 items-center text-center p-5 bg-gray-200 dark:bg-dark-200 sm:rounded-xl sm:shadow-lg sm:hover:shadow-gray-400 sm:hover:dark:shadow-black sm:hover:shadow-lg;
+    @apply flex flex-col gap-2 items-center text-center p-5 bg-gray-200 dark:bg-dark-200 sm:rounded-xl sm:shadow-lg sm:hover:shadow-gray-400 sm:hover:dark:shadow-black sm:hover:shadow-lg;
   }
 
   .alura-tag {
